@@ -10,12 +10,12 @@ During the last 9 months I learned how to write code, how to do pair programming
 
 I learnt how use client-side Javascript and test it, vanilla Js and Js frameworks, end to end testing, css and Sass. Here you can see some example:
 - Final and personal project for GA course, my first approach to responsive design: [Rent Splitter](https://github.com/MassimilianoMura/Rent-Splitter)
-- My todo list app, one weekend project, where I start to learn angularJs: MassiTodo
+- My todo list app, one weekend project, where I start to learn angularJs: [MassiTodo](https://github.com/MassimilianoMura/MassiToDo)
 
 #### Back-end development
 
 During my experience in Makers Academy I learnt how use Ruby and Ruby on Rails, ActiveRecord, PostreSQL, Rspec and Capybara, here an example:
-- A basic Instagram clone, one weekend project: MassiGram
+- A basic Instagram clone, one weekend project: [MassiGram](https://github.com/MassimilianoMura/MassiGram)
 
 
 ## Education
