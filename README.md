@@ -9,7 +9,7 @@ During the last 9 months I learned how to write code, how to do pair programming
 #### Front-end development
 
 I learnt how use client-side Javascript and test it, vanilla Js and Js frameworks, end to end testing, css and Sass. Here you can see some example:
-- Final and personal project for GA course, my first approach to responsive design: Rent Splitter
+- Final and personal project for GA course, my first approach to responsive design: [Rent Splitter](https://github.com/MassimilianoMura/Rent-Splitter)
 - My todo list app, one weekend project, where I start to learn angularJs: MassiTodo
 
 #### Back-end development
