@@ -4,17 +4,17 @@ Hi, I’m Massi, a wannabe Junior Developer. After my degree in Law and a career
 
 ## Skills
 
-During the last 9 months I learned how to write code, how to do pair programming and how to deliver high quality software working in a team doing TDD.
+During the last 9 months I've been studying how to write code, how to do pair programming and how to deliver high quality software working in a team doing TDD.
 
-#### Front-end development
+#### Front-end development
 
-I learnt how use client-side Javascript and test it, vanilla Js and Js frameworks, end to end testing, css and Sass. Here you can see some example:
+I studied how use client-side Javascript and test it, vanilla Js and Js frameworks, end to end testing, css and Sass. Here you can see some example:
 - Final and personal project for GA course, my first approach to responsive design: [Rent Splitter](https://github.com/MassimilianoMura/Rent-Splitter)
-- My todo list app, one weekend project, where I start to learn angularJs: [MassiTodo](https://github.com/MassimilianoMura/MassiToDo)
+- My todo list app, one weekend project, where I start to study angularJs: [MassiTodo](https://github.com/MassimilianoMura/MassiToDo)
 
 #### Back-end development
 
-During my experience in Makers Academy I learnt how use Ruby and Ruby on Rails, ActiveRecord, PostreSQL, Rspec and Capybara, here an example:
+During my experience in Makers Academy I studied how use Ruby and Ruby on Rails, ActiveRecord, PostreSQL, Rspec and Capybara, here an example:
 - A basic Instagram clone, one weekend project: [MassiGram](https://github.com/MassimilianoMura/MassiGram)
 
 
@@ -28,6 +28,7 @@ A 12-week full immersive coding bootcamp, focussed on pair programming, test dri
 - software design
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - TDD, BDD using testing frameworks Rspec, Capybara, Jasmine, Karma & Protractor
+- Learnt to learn
 
 
 #### General Assembly London, Front-End Web Dev Course (Jan 2015- Mar 2015)
