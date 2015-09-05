@@ -8,19 +8,23 @@ During the last 9 months I've been studying how to write code, how to do pair pr
 
 #### Front-end development
 
-I studied how use client-side Javascript and test it, vanilla Js and Js frameworks, end to end testing, css and Sass. Here you can see some example:
-- Final and personal project for GA course, my first approach to responsive design: [Rent Splitter](https://github.com/MassimilianoMura/Rent-Splitter)
-- My todo list app, one weekend project, where I start to study angularJs: [MassiTodo](https://github.com/MassimilianoMura/MassiToDo)
+I studied how to use client-side Javascript (vanilla Js and Js frameworks), unit testing, end to end testing, css and Sass. 
 
-#### Back-end development
+Here you can see an example:
+- Final and personal project for the General Assembly course, my first approach to responsive design: [Rent Splitter](https://github.com/MassimilianoMura/Rent-Splitter)
 
-During my experience in Makers Academy I studied how use Ruby and Ruby on Rails, ActiveRecord, PostreSQL, Rspec and Capybara, here an example:
-- A basic Instagram clone, one weekend project: [MassiGram](https://github.com/MassimilianoMura/MassiGram)
+#### Back-end/full-stack development
 
+During my experience in Makers Academy I studied how to use Ruby, Rails, Node.js, AngularJs, ActiveRecord, PostreSQL, Rspec, Capybara, etc.
+
+Here a few examples:
+- My todo list app, one weekend project, where I started to study angularJs, Node.js, Express: [MassiTodo](https://github.com/MassimilianoMura/MassiToDo)
+- A basic Instagram clone, one weekend project using Rails: [MassiGram](https://github.com/MassimilianoMura/MassiGram)
+- Final group project for the Makers Academy course, using Ruby, Rails, AngularJs, Ionic, Protractor, Karma, Selenium: [Detour](https://github.com/zeus-org) (WIP!)
 
 ## Education
 
-#### Makers Academy (Jun 2015 - Aug 2015)
+#### Makers Academy, London, Advanced Full-Stack Dev Course (Jun 2015 - Aug 2015)
 
 A 12-week full immersive coding bootcamp, focussed on pair programming, test driven development and agile practices.
 
@@ -29,7 +33,7 @@ A 12-week full immersive coding bootcamp, focussed on pair programming, test dri
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - TDD, BDD using testing frameworks Rspec, Capybara, Jasmine, Karma & Protractor
 - Learnt to learn
-
+- Daily standups, weekly retrospectives
 
 #### General Assembly London, Front-End Web Dev Course (Jan 2015- Mar 2015)
 
@@ -39,8 +43,7 @@ A 10-week course to help me establish strong front-end skills.
 - Javascript, jQuery
 - fundamentals of UX design
 
-
-#### University of Cagliari (2010 - 2013)
+#### University of Cagliari, Italy (2010 - 2013)
 
 - Bachelor Degree in Law, “Science of Legal Service”
 
