@@ -15,7 +15,7 @@ Here you can see an example:
 
 #### Back-end/full-stack development
 
-During my experience in Makers Academy I studied how to use Ruby, Rails, Node.js, AngularJs, ActiveRecord, PostreSQL, Rspec, Capybara, etc.
+During my experience in Makers Academy I studied how to use Ruby, Rails, Node.js, AngularJs, ActiveRecord, PostreSQL, Rspec, Capybara, continuous integration etc.
 
 Here a few examples:
 - My todo list app, one weekend project, where I started to study angularJs, Node.js, Express: [MassiTodo](https://github.com/MassimilianoMura/MassiToDo)
