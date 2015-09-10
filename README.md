@@ -51,3 +51,9 @@ A 10-week course to help me establish strong front-end skills.
 
 **Sound Light Service** (Apr. 2003 - Oct. 2013)
 *Light Designer and sound engineer for live concerts, cultural events and conferences. Staff management during musical and cultural events.*
+
+## Contact me
+- E-mail: massimilianomura1983@gmail.com
+- Twitter: @Massi_Mura
+- LinkedIn: https://www.linkedin.com/pub/massimiliano-mura/86/34b/344
+
