@@ -1,6 +1,6 @@
 ## Massimiliano Mura
 
-Hi, I’m Massi, a wannabe Junior Developer. After my degree in Law and a career in music industry I flew to London in order to learn how to write code. I studied code at General Assembly and Makers Academy and now I am looking for a job because I want to learn more and more.
+Hi, I’m Massi, a wannabe Junior Developer. After my degree in Law and a career in the music industry I flew to London to learn how to write code. I studied code at General Assembly and Makers Academy and now I am looking for a job because I want to learn more and more.
 
 ## Skills
 
@@ -28,8 +28,8 @@ Here a few examples:
 
 A 12-week full immersive coding bootcamp, focussed on pair programming, test driven development and agile practices.
 
-- Object oriented programming
-- software design
+- Object Oriented Programming
+- Software design
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - TDD, BDD using testing frameworks Rspec, Capybara, Jasmine, Karma & Protractor
 - Learnt to learn
@@ -41,7 +41,7 @@ A 10-week course to help me establish strong front-end skills.
 
 - HTML5, CSS3, cross-browser implementation, responsive web design
 - Javascript, jQuery
-- fundamentals of UX design
+- Fundamentals of UX design
 
 #### University of Cagliari, Italy (2010 - 2013)
 
