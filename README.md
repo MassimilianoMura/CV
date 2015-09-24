@@ -1,6 +1,8 @@
 ## Massimiliano Mura
 
-Hi, I’m Massi, a wannabe Junior Developer. After my degree in Law and a career in the music industry I flew to London to learn how to write code. I studied code at General Assembly and Makers Academy and now I am looking for a job because I want to learn more and more.
+I am Massi, an enthusiastic Junior Web Developer. After my degree in Law and a career in the music industry I decided to fly to London to learn how to write code.
+
+I attended several software development courses at General Assembly and Makers Academy, and I am now looking for an exciting job position to keep learning the most up-to-date technologies and expand my coding skills in a professional environment.
 
 ## Skills
 
