@@ -54,6 +54,9 @@ A 10-week course to help me establish strong front-end skills.
 **Sound Light Service** (Apr. 2003 - Oct. 2013)
 *Light Designer and sound engineer for live concerts, cultural events and conferences. Staff management during musical and cultural events.*
 
+## Hobbies
+I usually attend London Node User Group meet-up and during my free time I like to contribute to open source projects. I like good food, wine and I love sports.
+
 ## Contact info
 - E-mail: massimilianomura1983@gmail.com
 - Twitter: @Massi_Mura
