@@ -12,8 +12,10 @@ During the last 9 months I've been studying how to write code, how to do pair pr
 
 I studied how to use client-side Javascript (vanilla Js and Js frameworks), unit testing, end to end testing, css and Sass. 
 
-Here you can see an example:
+Here a few examples:
 - Final and personal project for the General Assembly course, my first approach to responsive design: [Rent Splitter](https://github.com/MassimilianoMura/Rent-Splitter)
+- Here you can see a few examples:
+- My personal website-portfolio, a responsive CSS project: [massimilianomura.github.io] (https://github.com/MassimilianoMura/massimilianomura.github.io)
 
 #### Back-end/full-stack development
 
